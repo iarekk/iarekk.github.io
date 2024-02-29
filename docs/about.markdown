@@ -12,7 +12,7 @@ I work with C#/.NET day-to-day, and have been working in this tech stack for ove
 
 I was lucky that I could start programming early in school (who remembers [Atari BASIC](https://en.wikipedia.org/wiki/Atari_BASIC)?).Another thing to be grateful for: my school teacher was very supportive and encouraged me to enter the inter-school programming competitions, where I used Turbo Pascal and Delphi. Afterwards, in the university, while studying for a math degree, I discovered C#. In the end, between math and C#, C# won.
 
-Beyond the C#/.NET stack (now adding F# to the mix), I have been learning [Elixir]([https://elixir-lang.org) in my free time. You can see the results of my experimentation in my [Github profile](https://github.com/iarekk).
+Beyond the C#/.NET stack (now adding F# to the mix), I have been learning [Elixir](https://elixir-lang.org) in my free time. You can see the results of my experimentation in my [Github profile](https://github.com/iarekk).
 
 I've always enjoyed working on complex, distributed software systems, and I absolutely love functional programming, and finding opportunities to use it in production. As long as it's the best tool for the job of course.
 
